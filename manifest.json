@@ -9,7 +9,7 @@
       "js": ["contentscript.js"]
     }
   ],
-  "browser_action": {
+  "action": {
     "default_popup": "popup.html"
   },
   "permissions": ["storage"]
